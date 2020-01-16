@@ -29,3 +29,6 @@ cd client && npm run build
 ### Author
 
 Alex Zhang
+
+### Heroku demo
+>https://whispering-chamber-82224.herokuapp.com/
