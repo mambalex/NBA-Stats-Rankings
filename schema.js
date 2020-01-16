@@ -15,7 +15,8 @@ const BaseInfoType = new GraphQLObjectType({
     birthDate: { type: GraphQLString },
     height: { type: GraphQLString },
     weight: { type: GraphQLString },
-    jerseyNum: { type: GraphQLString }
+    jerseyNum: { type: GraphQLString },
+    picFromSIB: { type: GraphQLString }
   })
 });
 
