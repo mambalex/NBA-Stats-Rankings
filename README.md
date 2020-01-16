@@ -2,6 +2,11 @@
 
 > React, GraphQL, Apollo app that uses the NBA stats API to display Stats Ranking
 
+## Tech Stack
++ React  &  Apollo <br>
++ Nodejs &  Express
++ GraphQL
+
 ## Quick Start
 
 ```bash
